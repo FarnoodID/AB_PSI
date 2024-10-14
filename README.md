@@ -168,6 +168,6 @@ To utilize the scripts in this repository:
 This repository is maintained by [FarnoodID](https://github.com/FarnoodID). Contributions are welcomed! Feel free to raise issues or submit pull requests if you encounter challenges or have suggestions for improvements.
 
 ## Conclusion
-In this project, we utilize the AB-PSI scheme to compute shared genome sequences securely outsourced in the cloud. The design allows data owners to maintain control over subscription calculations through access control policies while ensuring efficiency in terms of security and execution.
+In this project, I utilized the AB-PSI scheme to compute shared genome sequences securely outsourced in the cloud. The design allows data owners to maintain control over intersection calculations through access control policies while ensuring efficiency in terms of security and execution.
 This repository offers valuable resources for researchers and developers interested in secure genomic data processing using advanced cryptographic techniques.
 
